@@ -1,0 +1,10 @@
+
+.header-container{
+    background-color: #FBD062;
+    transform: skew(0deg, -4deg) translateY(-22%);
+    padding-top: 3%;
+    padding-bottom: 11%;
+}
+.content{
+    transform: skew(0deg, 4deg) translateY(22%)
+}
